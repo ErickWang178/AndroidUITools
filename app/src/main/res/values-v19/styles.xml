@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--在api大于等于19以上版本为状态栏透明-->
+        <item name="android:windowTranslucentStatus">false</item>
+    </style>
+</resources>
